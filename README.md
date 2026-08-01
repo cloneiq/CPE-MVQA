@@ -79,7 +79,7 @@ Please download the following datasets and place the files under the `data/` dir
 > | Dataset | Description | Download |
 > |---|---|---|
 > | SLAKE | An English-Chinese bilingual Med-VQA benchmark containing 642 radiology images, including CT, MRI, and X-ray images, and 14,028 question-answer pairs, plus pixel-level masks and a medical knowledge graph. | [SLAKE](https://www.med-vqa.com/slake/) |
-> | PathVQA | PathVQA is a large-scale medical visual question answering benchmark for pathology image understanding. It contains 4,998 pathology images with 32,799 question-answer pairs, covering both open-ended and closed-ended questions for multimodal reasoning evaluation. | [Pathvqa](https://huggingface.co/datasets/flaviagiammarino/path-vqa) |
+> | PathVQA | PathVQA is a large-scale medical visual question answering benchmark for pathology image understanding. It contains 4,998 pathology images with 32,799 question-answer pairs, covering both open-ended and closed-ended questions for multimodal reasoning evaluation. | [PathVQA](https://huggingface.co/datasets/flaviagiammarino/path-vqa) |
 >
 
 ### Pretrained Weights

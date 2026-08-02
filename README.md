@@ -147,6 +147,3 @@ Yao Tang, Kunming University of Science and Technology Kunming, Yunnan CHINA, em
 
 Lijun Liu, Associate Professor (Ph.D.), Kunming University of Science and Technology Kunming, Yunnan CHINA, email: cloneiq@kust.edu.cn
 
-<p align="center">
-  <sub>Maintained for reproducible, interpretable, and robust Medical Visual Question Answering research.</sub>
-</p>
